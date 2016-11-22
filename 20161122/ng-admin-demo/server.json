@@ -1,0 +1,24 @@
+{
+  "warehouses": [
+    {
+      "name": "东和昌昆山仓",
+      "address": "昆山",
+      "contact": "张",
+      "id": 1
+    },
+    {
+      "name": "test",
+      "address": "tes",
+      "contact": "asdfas",
+      "id": 2
+    }
+  ],
+  "user": [
+    {
+      "name": "xiaoming",
+      "tel": 120,
+      "sex": "nan",
+      "id": 1
+    }
+  ]
+}
